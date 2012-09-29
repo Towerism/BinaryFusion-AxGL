@@ -12,7 +12,7 @@ package entity {
 	public class EnemySpawn extends AxEntity {
 		
 		private static const SPAWN_CHANCE_PERSEC:int = 150;
-		private static const ROOM_PADDING:Number = 20;
+		private static const ROOM_PADDING:Number = 50;
 		
 		private var enemyGroup:AxGroup;
 		

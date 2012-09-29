@@ -1,6 +1,6 @@
 package {
 	import entity.Player;
-	import states.PlayState;
+	import state.PlayState;
 	/**
 	 * ...
 	 * @author Martin L. Fracker, Jr.

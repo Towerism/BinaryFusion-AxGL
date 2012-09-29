@@ -1,4 +1,4 @@
-package states {
+package state {
 	
 	import display.Linefield;
 	import display.MouseAxis;

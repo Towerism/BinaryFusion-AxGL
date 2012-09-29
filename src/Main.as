@@ -1,6 +1,6 @@
 package {
 	import org.axgl.Ax;
-	import states.PlayState;
+	import state.PlayState;
 	import flash.ui.Mouse;
 	
 	/**
