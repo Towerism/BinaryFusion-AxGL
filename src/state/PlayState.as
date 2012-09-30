@@ -5,18 +5,13 @@ package state {
 	import entity.Bullet;
 	import entity.Enemy;
 	import entity.EnemySpawn;
-	import entity.Entity;
 	import entity.Player;
 	import org.axgl.Ax;
 	import org.axgl.AxEntity;
 	import org.axgl.AxGroup;
-	import org.axgl.AxSprite;
 	import org.axgl.AxState;
 	import org.axgl.collision.AxCollisionGroup;
 	import org.axgl.collision.AxGrid;
-	import org.axgl.render.AxColor;
-	import org.axgl.text.AxText;
-	import org.axgl.text.AxTextLine;
 	
 	/**
 	 * ...

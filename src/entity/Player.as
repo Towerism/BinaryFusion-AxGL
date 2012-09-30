@@ -1,13 +1,12 @@
 package entity {
+	
 	import entity.Bullet.BulletPlayer;
 	import entity.Entity;
 	import org.axgl.Ax;
 	import org.axgl.AxGroup;
 	import org.axgl.AxPoint;
 	import org.axgl.AxRect;
-	import org.axgl.AxSprite;
 	import org.axgl.AxU;
-	import org.axgl.AxVector;
 	import org.axgl.input.AxKey;
 	import org.axgl.input.AxMouseButton;
 	

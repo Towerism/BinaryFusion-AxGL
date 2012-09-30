@@ -1,12 +1,7 @@
 package entity {
 	
-	import com.greensock.TweenMax;
 	import org.axgl.Ax;
-	import org.axgl.AxEntity;
-	import org.axgl.AxGroup;
 	import org.axgl.AxPoint;
-	import org.axgl.AxSprite;
-	import org.axgl.AxU;
 	import org.axgl.AxVector;
 	
 	/**

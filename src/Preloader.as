@@ -1,9 +1,8 @@
-package
-{
+package {
+	
 	import org.axgl.AxPreloader;
 	
-	public class Preloader extends AxPreloader
-	{
+	public class Preloader extends AxPreloader {
 		// uncomment if you want to use image 
 		//[Embed(source="../assets/LOADER.jpg")] protected var ImgLoaderScreen:Class;
 		
